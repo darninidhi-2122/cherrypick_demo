@@ -1,2 +1,3 @@
 commit 1
 featureA - change 1
+faetureA - change 2
